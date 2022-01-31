@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello World, I am Rahul 👋
+
+#### I am an eclectic collection of all that is good and evil attempting to find a balance for the welfare of all. A paranoid maths lover who believes in irrational numbers.
+#### I love to dig into customer problems and solve them with technology. I focus on key results, build amazing teams and quickly adapt to new insights.
 
 - 🔭 I’m currently working on ... Data Science 
 - 🌱 I’m currently learning... R & Python
